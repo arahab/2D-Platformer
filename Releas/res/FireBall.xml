@@ -1,0 +1,15 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="images/Fireball.png" transparentColor="">
+ <animation title="moveLeft" delay="100">
+  <cut w="133" x="0" y="0" h="120" row="1" col="1"/>
+  <cut w="120" x="159" y="0.5" h="130" row="1" col="1"/>
+  <cut w="132" x="318" y="7" h="120" row="1" col="1"/>
+  <cut w="123" x="487" y="6" h="131" row="1" col="1"/>
+ </animation>
+ <animation title="moveRight" delay="150">
+  <cut w="120" x="8" y="183.5" h="133" row="1" col="1"/>
+  <cut w="132" x="166" y="186" h="120" row="1" col="1"/>
+  <cut w="120" x="337" y="180" h="131" row="1" col="1"/>
+  <cut w="131" x="486" y="179" h="120" row="1" col="1"/>
+ </animation>
+</sprites>
