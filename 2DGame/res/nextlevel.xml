@@ -1,0 +1,15 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="door.png" transparentColor="">
+ <animation title="stay" delay="200">
+  <cut w="144" x="1" y="1" h="144" row="1" col="1"/>
+  <cut w="138" x="439" y="4" h="138" row="1" col="1"/>
+  <cut w="144" x="1" y="1" h="144" row="1" col="1"/>
+  <cut w="138" x="439" y="4" h="138" row="1" col="1"/>
+  <cut w="144" x="1" y="1" h="144" row="1" col="1"/>
+  <cut w="138" x="439" y="4" h="138" row="1" col="1"/>
+  <cut w="144" x="1" y="1" h="144" row="1" col="1"/>
+  <cut w="138" x="439" y="4" h="138" row="1" col="1"/>
+  <cut w="142" x="148" y="2" h="142" row="1" col="1"/>
+  <cut w="139" x="293" y="3" h="140" row="1" col="1"/>
+ </animation>
+</sprites>

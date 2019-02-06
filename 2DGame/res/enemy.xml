@@ -1,0 +1,27 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Shrek.png" transparentColor="">
+ <animation title="moveRight" delay="60">
+  <cut w="34" x="4" y="4" h="44" row="1" col="1"/>
+  <cut w="40" x="45" y="3" h="45" row="1" col="1"/>
+  <cut w="40" x="88" y="3" h="45" row="1" col="1"/>
+  <cut w="33" x="134" y="2" h="46" row="1" col="1"/>
+  <cut w="30" x="179" y="0" h="48" row="1" col="1"/>
+  <cut w="30" x="222" y="7" h="41" row="1" col="1"/>
+  <cut w="31" x="265" y="6" h="42" row="1" col="1"/>
+ </animation>
+ <animation title="moveLeft" delay="60">
+  <cut w="34" x="5" y="102" h="44" row="1" col="1"/>
+  <cut w="40" x="44" y="101" h="45" row="1" col="1"/>
+  <cut w="40" x="87" y="101" h="45" row="1" col="1"/>
+  <cut w="33" x="134" y="100" h="46" row="1" col="1"/>
+  <cut w="30" x="178" y="98" h="48" row="1" col="1"/>
+  <cut w="30" x="221" y="105" h="41" row="1" col="1"/>
+  <cut w="31" x="263" y="104" h="42" row="1" col="1"/>
+ </animation>
+ <animation title="deadRight" delay="150">
+  <cut w="35" x="47" y="52" h="45" row="1" col="1"/>
+ </animation>
+ <animation title="deadLeft" delay="150">
+  <cut w="35" x="47" y="150" h="45" row="1" col="1"/>
+ </animation>
+</sprites>

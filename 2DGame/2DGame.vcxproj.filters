@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\tiled">
+      <UniqueIdentifier>{7c1368da-7dfe-4ad2-bc87-a1a161ece9f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\class">
+      <UniqueIdentifier>{e22b103e-5204-4d58-b1fa-0c7953946742}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\tiled">
+      <UniqueIdentifier>{b999abd8-e989-45eb-baf3-7c9fe64220b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\class">
+      <UniqueIdentifier>{7db35bd1-5d87-4af1-b8a9-830ce70eb104}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="tinystr.cpp">
+      <Filter>Исходные файлы\tiled</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml.cpp">
+      <Filter>Исходные файлы\tiled</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlerror.cpp">
+      <Filter>Исходные файлы\tiled</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlparser.cpp">
+      <Filter>Исходные файлы\tiled</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="level.cpp">
+      <Filter>Исходные файлы\tiled</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Исходные файлы\class</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Исходные файлы\class</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Исходные файлы\class</Filter>
+    </ClCompile>
+    <ClCompile Include="MovingPlatform.cpp">
+      <Filter>Исходные файлы\class</Filter>
+    </ClCompile>
+    <ClCompile Include="MovingPlatformY.cpp">
+      <Filter>Исходные файлы\class</Filter>
+    </ClCompile>
+    <ClCompile Include="Spikes.cpp">
+      <Filter>Исходные файлы\class</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="changeLevel.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="BlueBall.cpp">
+      <Filter>Исходные файлы\class</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBall.cpp">
+      <Filter>Исходные файлы\class</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>Исходные файлы\class</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="NextLevel.cpp">
+      <Filter>Исходные файлы\class</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingPlatform.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+    <ClInclude Include="level.hpp">
+      <Filter>Файлы заголовков\tiled</Filter>
+    </ClInclude>
+    <ClInclude Include="tinystr.h">
+      <Filter>Файлы заголовков\tiled</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml.h">
+      <Filter>Файлы заголовков\tiled</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingPlatformY.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+    <ClInclude Include="NextLevel.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+    <ClInclude Include="Spikes.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+    <ClInclude Include="changeLevel.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+    <ClInclude Include="BlueBall.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBall.hpp">
+      <Filter>Файлы заголовков\class</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

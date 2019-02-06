@@ -1,0 +1,31 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="BlueBall.png" transparentColor="">
+ <animation title="move" delay="250">
+  <cut w="100" x="17" y="11" h="105" row="1" col="1"/>
+  <cut w="101" x="144" y="14" h="102" row="1" col="1"/>
+  <cut w="102" x="271" y="14" h="102" row="1" col="1"/>
+  <cut w="103" x="399" y="10" h="106" row="1" col="1"/>
+  <cut w="103" x="527" y="14" h="101" row="1" col="1"/>
+  <cut w="103" x="655" y="14" h="101" row="1" col="1"/>
+  <cut w="104" x="783" y="10" h="106" row="1" col="1"/>
+  <cut w="104" x="911" y="10" h="107" row="1" col="1"/>
+  <cut w="106" x="14" y="138" h="107" row="1" col="1"/>
+  <cut w="105" x="143" y="143" h="103" row="1" col="1"/>
+  <cut w="101" x="275" y="142" h="105" row="1" col="1"/>
+  <cut w="110" x="416" y="142" h="106" row="1" col="1"/>
+  <cut w="108" x="546" y="143" h="105" row="1" col="1"/>
+  <cut w="110" x="671" y="143" h="105" row="1" col="1"/>
+  <cut w="110" x="9" y="270" h="105" row="1" col="1"/>
+  <cut w="110" x="137" y="270" h="104" row="1" col="1"/>
+  <cut w="109" x="265" y="270" h="104" row="1" col="1"/>
+  <cut w="107" x="416" y="271" h="103" row="1" col="1"/>
+  <cut w="99" x="551" y="271" h="102" row="1" col="1"/>
+  <cut w="106" x="672" y="270" h="103" row="1" col="1"/>
+  <cut w="106" x="10" y="397" h="103" row="1" col="1"/>
+  <cut w="101" x="142" y="396" h="105" row="1" col="1"/>
+  <cut w="103" x="268" y="399" h="102" row="1" col="1"/>
+  <cut w="100" x="422" y="398" h="104" row="1" col="1"/>
+  <cut w="100" x="550" y="397" h="105" row="1" col="1"/>
+  <cut w="101" x="678" y="397" h="104" row="1" col="1"/>
+ </animation>
+</sprites>

@@ -1,0 +1,17 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="bitcoin.png" transparentColor="">
+ <animation title="stay" delay="200">
+  <cut w="38" x="4" y="6.5" h="35.5" row="1" col="1"/>
+  <cut w="38.5" x="47.5" y="5.5" h="36.5" row="1" col="1"/>
+  <cut w="44" x="86" y="5.5" h="37.5" row="1" col="1"/>
+  <cut w="35.5" x="135.5" y="6.5" h="36.5" row="1" col="1"/>
+  <cut w="40" x="175" y="7" h="34" row="1" col="1"/>
+  <cut w="34.5" x="5.5" y="46" h="40" row="1" col="1"/>
+  <cut w="33" x="45" y="47.5" h="38.5" row="1" col="1"/>
+  <cut w="35.5" x="86.5" y="47" h="39" row="1" col="1"/>
+  <cut w="37.5" x="129.5" y="49" h="35" row="1" col="1"/>
+  <cut w="41" x="173" y="47.5" h="37.5" row="1" col="1"/>
+ </animation> <animation title="dead" delay="200">
+ <cut w="38" x="4" y="6.5" h="35.5" row="1" col="1"/>
+ </animation>
+</sprites>
